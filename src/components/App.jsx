@@ -2,7 +2,7 @@ import React from "react";
 import Heading from "./Heading";
 
 function App() {
-  return Heading();
+  return <Heading />;
 }
 
 export default App;
